@@ -42,4 +42,4 @@ LinkedIn: https://Linkedin.com/in/khidir-muazu
 Notion Portfolio: https://tinyurl.com/khidir-soc-portfolio
 
 ---
-This portfolio is for defensive learning only. All labs are done in my own isolated home lab.
+*This portfolio is for defensive learning only. All labs are done in my own isolated home lab.*
