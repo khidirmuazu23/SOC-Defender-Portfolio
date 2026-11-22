@@ -17,17 +17,17 @@ To become a SOC Analyst / Incident Responder who can protect organizations from 
 ### Notion Portfolio (Lab 1 - 9)
 Foundation labs - Networking, Linux, Nmap, Wireshark, and SOC fundamentals. Documented in Notion.
 
-### GitHub Portfolio (Lab 10+)
+### GitHub Portfolio (Lab 1 - 6)
 Defender labs - Detection and Response. Documented here.
 
 | Lab | Title | Status |
 | --- | --- | --- |
-| 11 | Brute Force Detection with Wazuh | In Progress |
-| 12 | Phishing Email Analysis | Coming Next |
-| 13 | Malware Triage with VirusTotal | Coming Next |
-| 14 | Port Scan Detection | Coming Next |
-| 15 | S3 Open Bucket Audit | Coming Next |
-| 16 | Incident Response Playbook | Coming Next |
+| 1 | Brute Force Detection with Wazuh | In Progress |
+| 2 | Phishing Email Analysis | Coming Next |
+| 3 | Malware Triage with VirusTotal | Coming Next |
+| 4 | Port Scan Detection | Coming Next |
+| 5 | S3 Open Bucket Audit | Coming Next |
+| 6 | Incident Response Playbook | Coming Next |
 
 ## 📝 How I Document Every Lab
 1. Scenario - What attack happened?
